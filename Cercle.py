@@ -6,16 +6,19 @@ class Cercle:
         return self.__R
 
     def __add__(self, C):
-       return Cercle(self.__R + C.getR())
+        if isinstance(C, Cercle) == True:
+            return Cercle(self.__R + C.getR())
 
     def __lt__(self, C):
-       return self.__R < C.getR()
+        if isinstance(C, Cercle) == True:
+            return self.__R < C.getR()
 
     def __gt__(self, C):
-       return self.__R > C.getR()
+        if isinstance(C, Cercle) == True:
+            return self.__R > C.getR()
 
     def __str__(self):
-      return "Rayon du cercle : R="+str(self.__R)
+        return "Rayon du cercle : R="+str(self.__R)
 
 
 if __name__== '__main__':
