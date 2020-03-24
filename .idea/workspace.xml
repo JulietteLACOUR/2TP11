@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
   <component name="RunManager">
@@ -60,6 +61,10 @@
     <configuration />
   </component>
   <component name="WindowStateProjectService">
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1585044971403">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585044971403" />
     <state width="1259" height="172" key="GridCell.Tab.0.bottom" timestamp="1585044834506">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
