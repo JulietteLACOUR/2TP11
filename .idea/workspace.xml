@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80dda78e-a8ce-42c9-be57-b95ba2e2c23b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Complex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cercle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cercle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Complex.py" beforeDir="false" afterPath="$PROJECT_DIR$/Complex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +86,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TP11 2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="TP11 2020" />
+    <MESSAGE value="TP11 ex2 2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP11 ex2 2020" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1585045198494">
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1585047128257">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585045198494" />
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585047128257" />
     <state width="1259" height="172" key="GridCell.Tab.0.bottom" timestamp="1585047107080">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -111,9 +110,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1259" height="172" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585047107080" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1585045122096">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1585047142512">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585045122096" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1585047142512" />
   </component>
 </project>

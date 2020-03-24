@@ -42,8 +42,8 @@ class Complex:
         return "parte réelle : R="+str(self.__R)+" et partie imaginaire : I ="+str(self.__I)
 
 if __name__== '__main__':
-   c1 = Complex(2,5)
-   c2 = Complex(3,7)
+   c1 = Complex(2, 5)
+   c2 = Complex(3, 7)
    c3 = c1 + c2
    c4 = c1 - c2
    c5 = c1 * c2
