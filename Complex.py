@@ -1,7 +1,7 @@
 class Complex:
 
-    def __init__(self, réelle, imaginaire):
-        self.__R = réelle
+    def __init__(self, reelle, imaginaire):
+        self.__R = reelle
         self.__I = imaginaire
 
     def getR(self):
@@ -39,7 +39,7 @@ class Complex:
             return self.__R != C.getR() and self.__I != C.getI()
 
     def __str__(self):
-        return "parte réelle : R="+str(self.__R)+" et partie imaginaire : I ="+str(self.__I)
+        return "partie réelle : R="+str(self.__R)+" et partie imaginaire : I="+str(self.__I)
 
 if __name__== '__main__':
    c1 = Complex(2, 5)
